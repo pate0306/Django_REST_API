@@ -1,8 +1,5 @@
 # Django_REST_API
 
-# pdf-uploader
-
-
 ## Environment Setup
 1. Clone the repository to the folder of your choice.
 2. Open PyCharm.
